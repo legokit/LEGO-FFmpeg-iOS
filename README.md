@@ -1,4 +1,4 @@
-# LEGO-FFmpeg-iOS
+# LEGO-FFmpeg-iOS-Command
 
 FFmpeg 以命令行来调用，本次静态库使用了 4.0.3 为例
 
